@@ -1,0 +1,16 @@
+{
+  "name": "inventory-quest",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "start": "svelte-kit start"
+  },
+  "dependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^3.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "next"
+  }
+}
